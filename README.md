@@ -1,0 +1,2 @@
+# markdownUploader
+windows系统下python开发的插件,可以快速上传图片,视频后自动生成markdown格式字符.
